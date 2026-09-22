@@ -1,0 +1,7 @@
+/* Design tokens - Single source of truth for custom theme extensions */
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-fraunces);
+  --color-map-from: #E2FBD3;
+  --color-map-to: #F5F6CA;
+}
